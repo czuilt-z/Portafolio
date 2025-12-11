@@ -257,3 +257,9 @@ h1, h2, h3, h4, h5 {
     animation: fadeIn 1s ease forwards;
     opacity: 0;
 }
+
+/* -------- Cambios de claudio----- */
+
+.Cristobalcolor{
+    background-color: greenyellow !important;
+}
